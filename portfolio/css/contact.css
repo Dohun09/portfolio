@@ -17,7 +17,7 @@ padding-right: 150px;
 
 #instagram_link a{
   text-decoration: none;
-  color: black;
+  color: rgb(212, 93, 113);
   
 }
 
@@ -28,5 +28,5 @@ padding-right: 150px;
 }
 #github_link a{
   text-decoration: none;
-  color: black;
+  color: rgb(74, 6, 170);
 }
